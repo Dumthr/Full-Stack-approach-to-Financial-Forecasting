@@ -1,0 +1,33 @@
+@import "carbon-components/scss/globals/scss/styles.scss";
+
+.mainContainer {
+  padding-top: 5px;
+  text-align: center;
+  display: block;
+}
+
+form {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+.predictionContainer {
+  padding-top: 10px;
+  text-align: center;
+  display: block;
+}
+
+.predictionResult {
+  padding: 5px;
+  font-size: xx-large;
+  text-align: center;
+}
+
+.chartContiner {
+  display: inline-block;
+  margin: auto;
+  width: 100%;
+  padding: 2rem;
+}
